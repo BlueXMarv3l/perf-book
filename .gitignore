@@ -5,3 +5,7 @@ book
 
 # Also `diff` files, which I generate a lot.
 diff
+
+# Rust build artifacts from examples
+examples/*/target/
+examples/*/Cargo.lock

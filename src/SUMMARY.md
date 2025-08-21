@@ -3,6 +3,7 @@
 [Title Page](title-page.md)
 
 - [Introduction](introduction.md)
+- [Getting Started for Entry-Level Users](getting-started.md)
 - [Benchmarking](benchmarking.md)
 - [Build Configuration](build-configuration.md)
 - [Linting](linting.md)
